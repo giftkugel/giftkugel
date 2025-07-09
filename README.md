@@ -21,10 +21,6 @@ My favorite languages are Java and Go.
 </p>
 
 <p>
-  <a href="https://github.com/giftkugel" target="_blank" title="GitHub"><img alt="Static Badge" src="https://img.shields.io/badge/github.com-giftkugel-black?style=flat-square&logo=github"></a>
-</p>
-
-<p>
   <a href="https://twitter.com/giftkugel" target="_blank" title="Twitter"><img alt="Static Badge" src="https://img.shields.io/badge/twitter.com-giftkugel-black?style=flat-square&logo=x"></a>
 </p>
 
