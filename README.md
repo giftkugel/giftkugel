@@ -25,6 +25,12 @@ My favorite languages are Java and Go.
 </p>
 
 
+#### Health checks
+
+<p>
+  <img src="https://healthchecks.io/b/2/e4f97320-34bd-475b-9c30-c47d682e13b1.svg" alt="backup-healthcheck">
+</p>
+
 <!--
 **giftkugel/giftkugel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
